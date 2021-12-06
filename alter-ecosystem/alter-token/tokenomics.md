@@ -4,9 +4,9 @@
 
 ****
 
-Token Name **.**         Ticker Symbol  **.**         Total Supply **.**         Circulating Supply  **.**      &#x20;
+Token Name         ****         Ticker Symbol         ****         Total Supply         ****         Circulating Supply        ****       &#x20;
 
-**ALTER                              $ALTER**
+**ALTER                              $ALTR**
 
 &#x20;Initial Market Cap
 
