@@ -6,6 +6,10 @@
 * Players will be given out **free upgradable Unique identity character and identity Name as an NFT** as alters Welcome Bonus and will be transferred to **Alpha planet.**
 * **Players are welcomed to a crib** in Alpha planet until they find their own house.
 
+{% hint style="info" %}
+`NOTE: This section is under active review.`
+{% endhint %}
+
 ![](<../.gitbook/assets/Screenshot 2021-12-03 at 7.42.07 PM.png>)
 
 * **Alpha planet** is a full-pack **free-to-play** field where people can meet from all over the world where **crypto and non-crypto community** meets to do great things. Players can also use any other 3d models to use inside Alter Universe.

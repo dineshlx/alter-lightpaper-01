@@ -1,4 +1,4 @@
-# Vision and Values
+# Vision
 
 ## Our Vision
 
@@ -9,11 +9,5 @@
 * And giving a unique experience to **blockchain enthusiasts**.
 * **Gamers** have the chance to **learn about blockchain and crypto** while enjoying the gameplay that they are good at.
 * **Crypto enthusiasts** can make use of **blockchain to trade and earn cryptos** and they can enjoy the adrenaline rush of the gameplay by connecting with gamers.
+* We aim to allow users to develop their **own metaverses** without any technical knowledge.
 
-## Our Values
-
-Our goal is to create a unique and attractive world accessible to everyone to alter the reality &#x20;
-
-* Giving tools to users too, unleash their creativity to build their character and giving full control to their character and ability to alter their piece of land on the planet
-* Community is the key component us and giving users the ability to alter the ALTERUNIVERSE. May divided by the different planet but united by Alters and making one of the best communities out there
-* Mobile-first Metaverse opening portal to the metaverse for both crypto and non-crypto users and making it more accessible to everyone&#x20;

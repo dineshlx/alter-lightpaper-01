@@ -4,7 +4,8 @@
 
 ## ALTERUNIVERSE-Intro
 
-* [Vision and Values](alteruniverse-intro/vision-and-values.md)
+* [Vision](alteruniverse-intro/vision.md)
+* [Our Values](alteruniverse-intro/our-values.md)
 
 ## Market
 
@@ -19,10 +20,13 @@
   * [Utility](alter-ecosystem/alter-token/utility.md)
   * [Tokenomics](alter-ecosystem/alter-token/tokenomics.md)
 * [DAO Governance](alter-ecosystem/dao-governance.md)
-* [Virtual Planets/Lands](alter-ecosystem/virtual-planets-lands.md)
+* [Virtual Planets](alter-ecosystem/virtual-planets/README.md)
+  * [Land Economics](alter-ecosystem/virtual-planets/land-economics.md)
+  * [UseCase](alter-ecosystem/virtual-planets/usecase.md)
 
 ***
 
+* [Blockchain Technology](blockchain-technology.md)
 * [RoadMap](roadmap.md)
 * [Team](team.md)
 * [Audit](audit.md)

@@ -2,9 +2,14 @@
 
 **ALTER** is the portal to the unique Metaverse. Alter-universe combines crypto community and non-crypto community to mainstream blockchain adoption and ALTER plays a major role to democratize the metaverse.&#x20;
 
-* Alter Universe gives **Free-to-play**, **Play-and-earn**, **Pay-and-earn**, and **Story progression** to the players
+* Alter Universe gives **Free-to-play**, **Play-and-earn**, **Pay-and-earn**, and **Story progression** to the players.
+* Engage your community through gamification within your **brand’s metaverse**.
 
 ![Democratize The Metaverse](<../.gitbook/assets/Screenshot 2021-12-03 at 4.11.10 PM.png>)
+
+{% hint style="info" %}
+`NOTE: This section is under active review.`
+{% endhint %}
 
 * **ALTER** encourage **play-and-earn** instead of play-to-earn and gives strong story-based characters the adrenaline rush and make it more interesting and non-stop entertainment
 * Let Users travel through the **ALTER Portal** into different planets having different themes.&#x20;
