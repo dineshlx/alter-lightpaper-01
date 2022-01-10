@@ -4,7 +4,7 @@
 
 * ALTER token launch and public listing
 * CEX Listing
-* Beta Game Launch with poker Game
+* Alpha Game Launch with poker Game
 * Web3.0 wallet integration
 * Season 1 Land Sale
 * Metaverse Map release
